@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rlatjwns04
 - 👀 I’m interested in game
-- 🌱 I’m currently learning hoseo univercity
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ChatGPT
 - 📫 How to reach me mail
 
